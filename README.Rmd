@@ -1,0 +1,10 @@
+# HarvardX PH125.9x Capstone: MovieLens Project
+
+## MovieLens Ratings Prediction
+
+This is one of the final projects of HarvardX PH125.9x Capstone course.  
+
+Files:  
+- PDF Report (MovieLens_Proj.pdf)  
+- Rmd Report (MovieLens_Proj.Rmd)  
+- R file (MovieLens_Proj.R)
